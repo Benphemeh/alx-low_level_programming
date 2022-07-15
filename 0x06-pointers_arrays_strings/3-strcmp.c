@@ -5,7 +5,7 @@
  * @s1: first string param
  * @s2: second string param
  * Return:
- * 	returns 0 if s1 == s2
+ *	returns 0 if s1 == s2
  *	returns negative number if s1 < s2
  *	returns positive number if s1 > s2
  */
